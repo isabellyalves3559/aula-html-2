@@ -1,4 +1,78 @@
-   #titulo{
+   <link rel="stylesheet" href="Style.css"/> 
+    body {
+    background-color:#fef8ced6; 
+    font-family: Arial Rondet MT Bold;
+    text-align:center;
+}
+
+
+    h2 {
+    color:#7c2ef5c0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     text-align: center;
-    font-family: 'Lucida Sans Unicode';
+    background-color: azure;
+    
+    
+}
+  form {
+    background-color: azure;
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+  th {
+    background-blend-mode:white;
+    color:#f7f2f9fb ;
+    background-color: #8408adec;
+    border-block-style:rgb(238, 171, 252)
+    font-family:fantasy;
+
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: aliceblue;
+    border-style: groove;
+  }
+  
+    th,td {
+      padding: 5px;
+      text-align: center;
+    }
+
+   #titulo{
+      text-align: center;
+      font-family: fantasy; Arial Rondet MT Bold;
+      color: #7409c1cf;
+      background-color: aliceblue;
+      border-block: round;
    }
+
+   img{
+      border-image: auto;
+      image-orientation: center;
+      image-resolution: initial;
+      border-image: round;
+      display: block;
+       margin: auto;
+       border-radius: 10px;
+   }
+
+   .Perguntasprincipais{
+      text-align: center;
+      font-family:Arial Rondet MT Bold;
+
+   }
+
+   {
+   input[type]
+    background-color: #6a0dad;
+    color: white;
+    border: groove;
+    padding: 12px;
+    margin-top: 12px;
+    border-radius: 5px;
+}
+    
